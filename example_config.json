@@ -1,0 +1,14 @@
+{
+  "duration_minutes_per_day": 45,
+  "seasons": [
+    {
+      "season": "2023-2024",
+      "days": 58,
+      "distance_km": 1049.1,
+      "vertical_m": 222838,
+      "max_speed_kmh": 87.9,
+      "start_date": "2023-11-15",
+      "end_date": "2024-04-15"
+    }
+  ]
+}
